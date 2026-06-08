@@ -30,13 +30,21 @@ An interactive 3D particle visualization built with Three.js and GSAP. Transform
 
 ## 📂 Project Structure
 
+```text
 ParticleSphere/
+│
 ├── index.html
 ├── style.css
 ├── index.js
 ├── README.md
 ├── .gitignore
-└── assets/ (optional)
+│
+├── assets/
+│   └── screenshot.png
+│
+└── .vscode/
+    └── settings.json
+```
 
 ## 🛠️ Installation
 

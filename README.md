@@ -34,7 +34,9 @@ ParticleSphere/
 ├── index.html
 ├── style.css
 ├── index.js
-└── README.md
+├── README.md
+├── .gitignore
+└── assets/ (optional)
 
 ## 🛠️ Installation
 
